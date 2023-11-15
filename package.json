@@ -1,0 +1,28 @@
+{
+  "name": "cvss4js",
+  "version": "1.0.0",
+  "description": "Implementation of CVSSv4 in Javascript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparticvs/cvss4js.git"
+  },
+  "keywords": [
+    "cvss",
+    "cvssv4",
+    "cvss4js"
+  ],
+  "author": "Charles `sparticvs' Timko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sparticvs/cvss4js/issues"
+  },
+  "homepage": "https://github.com/sparticvs/cvss4js#readme"
+}
